@@ -1,8 +1,17 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mayait/usfq_school_of_business_reports/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Crecimiento del School of Business</h1>
+	<p><small>2 de Julio de 2022</small></p>
+	
+	<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+        <!-- *** Section 1 *** --->
+        <h2 class="mt-5">Estudiantes activos</h2>
+	<p>School of Busines es el colegio con más estudiantes activos desde el periodo 2020-2021 y es el colegio con el mayor crecimiento en estudiantes. 
+	<br><small>El año académico 2021-2022 y faltan los datos del verano</small></p>
+	
+        <iframe src="fig5.html" width="1024" height="700" frameborder="0" seamless="seamless" scrolling="no"></iframe>
 
 ### Markdown
 
